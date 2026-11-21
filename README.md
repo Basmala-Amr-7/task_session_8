@@ -4,6 +4,10 @@
 
 ![Task Session 8 Preview](screenshots/preview.png)
 
+## Live Demo
+
+[View Live Website](https://basmala-amr-7.github.io/task_session_8/)
+
 ## Overview
 
 A simple landing page built with **HTML5** and **CSS3** as part of my Front-End Development training at **Creativa**.
@@ -45,16 +49,13 @@ The project focuses on creating a structured webpage with a navigation bar, hero
 task_session_8/
 │
 ├── index.html
-│
 ├── css/
 │   └── style.css
-│
 ├── media/
 │   ├── 66.jpg
 │   ├── 1.jpeg
 │   ├── 2.jpeg
 │   └── 3.jpeg
-│
 └── screenshots/
     └── preview.png
 ```
