@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* header Section  --------------------*/
+header{
+    background-image: url(../media/66.jpg);
+    font-family: cursive;
+    height: 650px;
+    background-size: cover;
+    letter-spacing: 1px;
+}
+
+/* Header Navbar Section  */
+header nav a{
+    text-decoration: none;
+    color: black;
+    padding: 20px 25px;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+/* Header Content Section  */
+header .header-content{
+    text-align: center;
+    padding-top: 170px;
+}
+
+header .header-content h2{
+    font-size: 34px;
+}
+
+/* Header Links Sectionc */
+header .header-content a{
+    text-decoration: none;
+    background-color: #5b55a8;
+    border-radius: 25px;
+    color: white;
+    padding: 15PX 25px;
+    font-family: serif;
+    margin: 25px 5px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+/* Main Section ------------------------ */
+main{
+    text-align: center;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+
+/* Main Text Section  */
+main .main-text{
+    padding: 15px;
+}
+
+main .main-text h2{
+    font-size: 30px;
+}
+
+main .main-text p{
+    font-family: serif;
+    font-size: 24px;
+    letter-spacing: 3px;
+    margin-top: 10px;
+}
+
+/* Main Image Secton  */
+main .main-image img{
+    width: 385px;
+    padding: 0 22px;
+}
